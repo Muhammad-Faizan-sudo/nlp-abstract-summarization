@@ -1,5 +1,5 @@
 
-                    ____________________
-                    |                   |
-input text -------> | Transformer model | ---->  abstract summary
-                    |___________________|
+                    
+                    
+input text ------->  **Transformer model**  ---->  abstract summary
+                    
